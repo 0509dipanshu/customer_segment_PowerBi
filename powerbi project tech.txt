@@ -1,0 +1,9 @@
+I have worked on customer segmentation and bring insights out of it using power  BI
+
+I brought yearly, tinsight
+
+
+1. Buisness problem
+2. Buisness impact 
+3. Prediction and insights using dashbaord
+4. Techniques -- why
